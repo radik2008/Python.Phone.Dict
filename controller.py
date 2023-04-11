@@ -36,3 +36,7 @@ def start_pb():
             case 6:
                 view.print_info(txt.exit)
                 exit()
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4eb945d (Done)
